@@ -11,4 +11,10 @@
     <string name="login_failed">"Login failed"</string>
     <string name="username">Username</string>
     <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="Email">Email</string>
+    <string name="full">full</string>
+    <string name="fullname">fullname</string>
+    <string name="SingUpHere">Create a new accaunt?SingUp</string>
+    <string name="LoginHere">Already have account?Login</string>
 </resources>
